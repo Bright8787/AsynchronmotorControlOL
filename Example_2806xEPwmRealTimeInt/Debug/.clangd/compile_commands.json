@@ -1,0 +1,52 @@
+[
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_CpuTimers.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_DBGIER.asm"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_DefaultIsr.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/source/F2806x_GlobalVariableDefs.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_PieCtrl.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_PieVect.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_SysCtrl.c"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL",
+      "file"      : "/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/source/F2806x_usDelay.asm"
+   },
+   {
+      "directory" : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Debug",
+      "command"   : "clang++ -I\"/Applications/ti/ccs2011/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/headers/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/device_support/f2806x/common/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/IQmath/c28/include\" -I\"/Users/ruxandrawoinaroski/ti/C2000Ware_5_04_00_00/libraries/math/FPUfastRTS/c28/include\" -D_DEBUG -DLARGE_MODEL -xc",
+      "file"      : "/Users/ruxandrawoinaroski/Desktop/Sem4/PPK_LE/practices/Example_2806xEPwmRealTimeInt/Example_2806xEPwmRealTimeInt.c"
+   }
+]
